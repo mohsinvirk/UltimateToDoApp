@@ -46,7 +46,7 @@ const styles = theme => ({
   },
   button: {
     color: "#f0925d",
-    fontSize: "16px",
+    fontSize: "14px",
     textTransform: "capitalize",
     background: "rgba(240, 142, 92, 0.08)"
   },
